@@ -1,2 +1,2 @@
 # payment repository
-Project name: Payments
+Project name: payments
