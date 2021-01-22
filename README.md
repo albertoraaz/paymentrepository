@@ -1,2 +1,5 @@
-# payment repository
+# Payment Repository
+-----------
+```bash
 Project name: payments
+```
